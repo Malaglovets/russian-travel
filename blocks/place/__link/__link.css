@@ -1,0 +1,14 @@
+.place__link {
+    color: #ffffff;
+    font-size: 18px;
+    line-height: 22px;
+    max-width: 456px;
+    margin-top: 12px;
+  }
+  
+  @media screen and (max-width: 320px) {
+    .place__link {
+      max-width: 288px;
+      margin: 12px auto 0;
+    }
+  }

@@ -1,0 +1,14 @@
+.place__url-heading {
+    color: #aaaaaa;
+    font-size: 12px;
+    line-height: 12px;
+    font-weight: 400;
+    font-style: normal;
+    margin: 0;
+    padding: 0;
+    letter-spacing: 2px;
+  }
+  
+  .place__url-heading:hover {
+    opacity: 0.7;
+  }
