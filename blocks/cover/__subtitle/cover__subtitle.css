@@ -15,10 +15,6 @@
     .cover__subtitle {
       max-width: 360px;
       margin: 32px auto 195px;
-      font-size: 18px;
-      line-height: 22px;
-      font-style: normal;
-      font-weight: 400;
     }
   }
   
@@ -26,10 +22,6 @@
     .cover__subtitle {
       max-width: 360px;
       margin: 32px auto 115px;
-      font-size: 18px;
-      line-height: 22px;
-      font-weight: 400;
-      font-style: normal;
     }
   }
   
@@ -38,8 +30,6 @@
       font-size: 14px;
       line-height: 16px;
       max-width: 288px;
-      font-style: normal;
       margin: 16px 16px 33px 16px;
-      font-weight: 400;
     }
   }
