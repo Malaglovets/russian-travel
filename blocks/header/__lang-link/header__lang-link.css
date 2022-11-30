@@ -4,9 +4,9 @@
     line-height: 28px;
     font-style: normal;
     font-weight: 400;
-    text-decoration: none;
     margin-right: 18px;
-    max-width: 30px;
+    flex-direction: row;
+    text-decoration: none;
   }
   
   .header__lang-link:hover {

@@ -4,13 +4,16 @@
     line-height: 29.34px;
     font-weight: 400;
     font-style: normal;
-    margin: 0 40px 26px;
+    margin: 0 0 26px;
+  }
+  .place__paragraph:last-child {
+    margin-bottom: 0;
   }
   
   @media screen and (max-width: 1024px) {
     .place__paragraph {
       max-width: 456px;
-      margin: o 32px 26px;
+      margin: 0 0 26px;
     }
   }
   
@@ -19,15 +22,13 @@
       font-size: 16px;
       line-height: 163%;
       max-width: 352px;
-      margin: 0 28px 25px;
+      margin: 0 0 25px;
     }
   }
   
-  @media screen and (max-width: 320px) {
+  @media screen and (max-width: 767px) {
     .place__paragraph {
       max-width: 288px;
-      font-size: 16px;
-      line-height: 163%;
       margin: 32px 16px 0;
     }
   }

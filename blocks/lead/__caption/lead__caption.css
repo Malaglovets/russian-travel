@@ -5,13 +5,7 @@
     font-weight: 400;
     text-transform: uppercase;
     font-style: normal;
-    max-width: 158px;
-  }
-  
-  @media screen and (max-width: 1024px) {
-    .lead__caption {
-      margin-top: 8px;
-    }
+    letter-spacing: 1.5px;
   }
   
   @media screen and (max-width: 768px) {
@@ -22,7 +16,6 @@
   
   @media screen and (max-width: 320px) {
     .lead__caption {
-      margin-top: 8px;
       margin-left: 16px;
     }
   }

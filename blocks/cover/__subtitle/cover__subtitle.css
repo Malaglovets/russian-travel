@@ -7,25 +7,11 @@
     font-style: normal;
     z-index: 1;
     max-width: 360px;
-    transform: translate(0, 0);
-    margin: 32px auto 245px auto;
+    margin: 0 auto 0;
   }
   
-  @media screen and (max-width: 1024px) {
-    .cover__subtitle {
-      max-width: 360px;
-      margin: 32px auto 195px;
-    }
-  }
   
-  @media screen and (max-width: 768px) {
-    .cover__subtitle {
-      max-width: 360px;
-      margin: 32px auto 115px;
-    }
-  }
-  
-  @media screen and (max-width: 320px) {
+  @media screen and (max-width: 767px) {
     .cover__subtitle {
       font-size: 14px;
       line-height: 16px;

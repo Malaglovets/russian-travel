@@ -1,8 +1,0 @@
-.header__lang-link.header__lang-link_active {
-    text-decoration: underline;
-    cursor: default;
-  }
-  
-  .header__lang-link.header__lang-link_active:hover {
-    opacity: 1;
-  }
