@@ -3,26 +3,19 @@
     flex-direction: column;
     align-content: flex-start;
     max-width: 984px;
-    margin: 60px auto 0;
+    margin: 92px auto 0;
     color: #ffffff;
   }
   
   @media screen and (max-width: 1024px) {
     .intro {
-      max-width: 690px;
-      margin: 70px auto 0;
+      max-width: 100%;
+      margin: 70px auto 0 48px;
     }
   }
   
-  @media screen and (max-width: 768px) {
+  @media screen and (max-width: 688px) {
     .intro {
-      max-width: 720px;
-    }
-  }
-  
-  @media screen and (max-width: 320px) {
-    .intro {
-      max-width: 320px;
       margin: 64px 16px 0;
     }
   }

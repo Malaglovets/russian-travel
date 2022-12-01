@@ -10,18 +10,17 @@
   
   @media screen and (max-width: 1024px) {
     .footer {
-      max-width: 928px;
+      max-width: 100%;
     }
   }
   
   @media screen and (max-width: 768px) {
     .footer {
-      max-width: 720px;
-      margin: 41px 24px 0 24px;
+      margin: 88px 24px 0 24px;
     }
   }
   
-  @media screen and (max-width: 767px) {
+  @media screen and (max-width: 688px) {
     .footer {
       align-items: flex-start;
       flex-direction: column;

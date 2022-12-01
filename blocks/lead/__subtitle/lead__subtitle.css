@@ -7,12 +7,6 @@
     margin: 32px auto 0;
     font-style: normal;
   }
-
-  @media screen and (max-width: 1024px) {
-    .lead__subtitle {
-      margin: 32px auto 0;
-    }
-  }
   
   @media screen and (max-width: 375px) {
     .lead__subtitle {

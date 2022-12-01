@@ -4,8 +4,9 @@
     line-height: 12px;
     font-weight: 400;
     font-style: normal;
-    margin-top: 12px;
+    margin-top: 0;
     letter-spacing: 2px;
     text-transform: uppercase;
+    margin: 0 auto 12px;
   }
   

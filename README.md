@@ -6,5 +6,5 @@
 
 Ссылка на сайт:
 
-https://github.com/Malaglovets/russian-travel/blob/main/index.html
+https://malaglovets.github.io/russian-travel/
 
