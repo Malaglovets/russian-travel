@@ -23,16 +23,16 @@
 
 @media screen and (max-width: 768px) {
     .place {
-        margin: 0 0 73px;
+        margin: 0;
         column-gap: 28px;
-        grid-template-columns: 1fr;
+        grid-template-columns: 340px 1fr;
     }
 }
 
 @media screen and (max-width: 688px) {
     .place {
         margin: 0 0 50px;
-        grid-template-columns: min-content;
+        grid-template-columns: 1fr;
         grid-template-areas:
             "title"
             "website"

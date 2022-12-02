@@ -11,12 +11,13 @@
   @media screen and (max-width: 1024px) {
     .footer {
       max-width: 100%;
+      margin: 65px 48px 0;
     }
-  }
+    }
   
   @media screen and (max-width: 768px) {
     .footer {
-      margin: 88px 24px 0 24px;
+      margin: 60px 24px 0 24px;
     }
   }
   

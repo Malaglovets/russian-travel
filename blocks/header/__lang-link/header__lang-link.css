@@ -5,10 +5,10 @@
     font-style: normal;
     font-weight: 400;
     margin-right: 18px;
+    text-decoration: none;
   }
   .header__lang-link:last-child {
     margin-right: 0;
-    text-decoration: none;
 }
 
   .header__lang-link:hover {
